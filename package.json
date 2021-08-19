@@ -1,0 +1,21 @@
+{
+  "name": "daims",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "tirenity",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "cron": "^1.8.2",
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "mathjs": "^6.6.1",
+    "reload": "^3.0.4",
+    "sqlite": "^4.0.7",
+    "vultrex.db": "^1.4.0"
+  }
+}
